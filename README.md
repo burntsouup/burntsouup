@@ -1,4 +1,6 @@
-## Hi there 👋
+Hey, I’m burntsoup and I enjoy slightly over-cooked soup and beautifully baked code.
+
+![good soup](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGk1b3Zoam94dHRjZHF4OWY2d3E0Nnhrem9kZnd6MnlsdmV1Z3RwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/w4g8JSKEkCmpwfMiRU/giphy.gif)
 
 <!--
 **burntsouup/burntsouup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
